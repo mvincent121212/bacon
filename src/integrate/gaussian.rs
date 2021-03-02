@@ -1,3 +1,9 @@
+/* This file is part of bacon.
+ * Copyright (c) Wyatt Campbell.
+ *
+ * See repository LICENSE for information.
+ */
+
 use nalgebra::{ComplexField, RealField};
 use num_traits::{FromPrimitive, One, Zero};
 
